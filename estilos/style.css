@@ -261,6 +261,15 @@ article#video .video-container {
   border-radius: 8px;
 }
 
+.img-Projeto {
+  
+  width: 60px;
+  height: auto;
+  display: block;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
 footer {
   background-color: var(--destaque);
   color: var(--texto-inverso);
